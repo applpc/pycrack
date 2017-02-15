@@ -1,4 +1,5 @@
 # Written by Kenny Adams
+#Updated for Python 2.7.13 on 2/15/17
 
 import hashlib
 import itertools
