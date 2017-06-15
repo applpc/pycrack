@@ -5,7 +5,7 @@ Open-Source python based hash cracking tools.
 
 Download the current version of python <a href=https://www.python.org/downloads/>here</a>.
 
-The tools that are currently included in this repository are solely for MD5 hashes, however I may add the code for other hashing types later on.
+Most of the tools that are currently included in this repository are solely for MD5 hashes, however I may add the code for other hashing types later on.
 
 This code is intended to educate on how python can be used to crack hashes using several different means such as <a href=https://en.wikipedia.org/wiki/Brute-force_attack>brute-force</a> and <a href=https://en.wikipedia.org/wiki/Dictionary_attack>dictionary</a> attacks, as well as how the different attacks work.
 
