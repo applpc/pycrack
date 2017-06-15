@@ -1,5 +1,5 @@
 # pycrack
-Open-Source python based hash decryption tools.
+Open-Source python based hash cracking tools.
 
 <a href=https://www.python.org/><img src="https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1024px-Python-logo-notext.svg.png&f=1" align="left" width=50px height=50px></a>Current Build for <a href=https://www.python.org/downloads/release/python-2713/>Python 2.7.13</a>
 
