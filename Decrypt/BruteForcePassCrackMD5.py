@@ -1,3 +1,5 @@
+#Note: THIS WILL TAKE A LONG TIME TO CRACK A HASH!!! The upside of using this is that it tests indefinitely until it finds your hash.
+
 import itertools
 import hashlib
 from hashlib import md5
