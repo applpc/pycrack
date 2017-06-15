@@ -1,3 +1,6 @@
+# Note: Make sure that your dictionary file that you have saved to your computer is either in the same directory as this program 
+# and named "dict.txt", or you change the "dict" variable to the directory of your file.
+
 import hashlib
 import time
 
